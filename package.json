@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/skevy/react-document-meta.git"
+    "url": "https://github.com/navya1217/react-document-meta.git"
   },
   "keywords": [
     "react",
@@ -19,12 +19,12 @@
     "jsx",
     "open graph"
   ],
-  "author": "Adam Miskiewicz <adam@sk3vy.com> (http://github.com/skevy)",
+  "author": "Navya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skevy/react-document-meta/issues"
+    "url": "https://github.com/navya1217/react-document-meta/issues"
   },
-  "homepage": "https://github.com/skevy/react-document-meta",
+  "homepage": "https://github.com/navya1217/react-document-meta",
   "peerDependencies": {
     "react": ">=0.11.0",
     "lodash": ">=3.0.0"
