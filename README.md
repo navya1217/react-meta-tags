@@ -1,16 +1,9 @@
-=======
-Currently unsupported and unused. Use React-Helmet instead: https://github.com/nfl/react-helmet
-=======
 
-React Document Meta
+React Meta Tags
 ====================
 
 Provides a declarative way to specify meta tags in a single-page app.  
 This component can be used on server side as well.
-
-Built with [React Side Effect](https://github.com/gaearon/react-side-effect).
-
-====================
 
 ## Installation
 
